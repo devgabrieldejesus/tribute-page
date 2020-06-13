@@ -1,0 +1,159 @@
+body {
+    margin:0;
+    padding:0;
+    color:#111;
+    font-family:'Roboto',sans-serif;
+}
+/*============================================CONTAINER GERAL============================================*/
+.container {
+    display:flex;
+    width:1230px;
+    align-items:center;
+    justify-content:center;
+}
+/*============================================HEADER============================================*/
+header {
+    display:flex;
+    justify-content:center;
+    height:80px;
+}
+.header-title { /*Header Title*/
+    font-size:30px;
+}
+/*============================================BANNER============================================*/
+#banner { /*Banner com imagem*/
+    display:flex;
+    justify-content:center;
+    height:350px;
+    background-color:#FFF;
+    background-image:url('../images/nelson.png');
+    background-position:center;
+    background-size:cover;
+}
+/*============================================GERAL============================================*/
+section {
+    padding-bottom:400px;
+}
+#geral {
+    display:flex;
+    justify-content:center;
+    background-color:#ededed;
+}
+.column {  /*Orientação column*/
+    flex-direction:column;
+}
+.widget-title {  /*Title do widget*/
+    margin-top:60px;
+    margin-bottom:45px;
+    text-align:center;
+}
+.widget-title h1,
+.widget-title h2 {  /*Title e subtítulo*/
+    margin:0;
+    padding:0;
+    font-weight:lighter;
+}
+.widget-title h1{
+    font-size:24px;
+}
+.widget-title h2{
+    font-weight:bold;
+    font-size:30px;
+}
+.b1,
+.b2,
+.b3 {
+    display:flex;
+    align-items:center;
+    margin-bottom:48px;
+    text-align:center;  /*3 áreas*/
+}
+.widget-body-title {  /*Title das áreas*/
+    font-size:20px;
+    font-weight:bold;
+}
+.widget-body-text {  /*Texto das áreas*/
+    margin-top:8px;
+    font-size:18px;
+    line-height:25px;
+    font-weight:lighter;
+}
+/*============================================FOOTER============================================*/
+footer {
+    display:flex;
+    justify-content:center;
+    height:100px;
+    background-color:#FFF;
+    box-shadow:0px 0px 10px #CCC;
+}
+.footer-copy {
+    font-size:18px;
+}
+.footer-copy a{
+    color:#111;
+    font-size:18px;
+    font-weight:bold;
+    text-decoration:none;
+}
+/*============================================RESPONSIVO============================================*/
+/*============================================1300px============================================*/
+@media (max-width:1300px) {
+    .container {
+        width:900px;
+    }
+    #banner {
+        height:200px;
+    }
+}
+/*============================================900px============================================*/
+@media (max-width:900px) {
+    .header-title {
+        font-size:20px;
+    }
+    #banner {
+        height:90px;
+    }
+    .widget-title h1 {
+        font-size:20px;
+    }
+    .widget-body-text {
+        font-size:15px;
+        margin-left:20px;
+        margin-right:20px;
+    }
+    .footer-copy {
+        font-size:16px;
+    }
+    .footer-copy a {
+        font-size:16px;
+    }
+}
+/*============================================700px============================================*/
+@media (max-width:900px) {
+    .header-title {
+        font-size:17px;
+    }
+    #banner {
+        height:0px;
+        background-image:url('../images/nelson-mobile.png');
+        background-position:center;
+        background-size:cover;
+    }
+    .widget-title h1 {
+        font-size:17px;
+    }
+    .widget-title h2 {
+        font-size:20px;
+    }
+    .widget-body-text {
+        font-size:14px;
+        margin-left:20px;
+        margin-right:20px;
+    }
+    .footer-copy {
+        font-size:14px;
+    }
+    .footer-copy a {
+        font-size:14px;
+    }
+}
