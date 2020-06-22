@@ -1,7 +1,7 @@
 # Nelson mandela tribute page
 
 
-![](assets/images/preview-tribute-page.png)
+![](assets/images/nelson.png)
 
 
 ### Who was
