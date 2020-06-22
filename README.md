@@ -1,5 +1,3 @@
-#### 📒   _Always learn_
-
 # Nelson mandela tribute page
 
 
