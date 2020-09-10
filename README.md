@@ -1,8 +1,6 @@
 # Nelson mandela tribute page
 
-
 ![](assets/images/nelson.png)
-
 
 ### Who was
 ### Nelson Mandela ?
@@ -16,8 +14,25 @@
 #### Prison to the Presidency
 > Amid international pressure and the growing fear of racial civil war, President FW de Klerk released him in 1990. Mandela and de Klerk negotiated the end of apartheid and organized the 1994 multiracial general elections, in which Mandela led the ANC to victory and became president. Leading a broad coalition government that promulgated a new constitution, Mandela emphasized reconciliation between the country's racial groups and created the Truth and Reconciliation Commission to investigate past human rights abuses. Economically, the Mandela government maintained the liberal structure of its predecessor, despite its own socialist beliefs, also introducing measures to encourage land reform, fight poverty and expand health services.
 
+## Release history
 
+* 0.1.0
+    * Project finalized and studying the possibility of adding `new resources`
+* 0.0.1
+    * Work in progress
 
-## Contact me
+## Meta
 
-Gabriel de Jesus – (https://www.linkedin.com/in/gabrieldejesuss) – contato@gabrieldesenvolvedor.com
+Gabriel de Jesus – [My portfolio](https://www.gabrieldesenvolvedor.com/) – contato@gabrieldesenvolvedor.com
+
+Distributed under the MIT License. See LICENSE for more information.
+
+[https://github.com/devgabrieldejesus/tribute-page](https://github.com/devgabrieldejesus/)
+
+## Contributing
+
+1. Fork it (<https://github.com/devgabrieldejesus/tribute-page/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
