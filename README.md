@@ -2,7 +2,7 @@
 
 ![](assets/images/nelson.png)
 
-### Who was
+## Who was
 ### Nelson Mandela ?
 
 #### Introduction
