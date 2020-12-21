@@ -1,4 +1,4 @@
-# Nelson mandela tribute page
+# Nelson Mandela tribute page
 
 ✊🏾 A simple tribute page to Nelson Mandela
 
@@ -20,6 +20,8 @@ Mandela, an Xhosa, was born in Mvezo of the Thembu royal family. He studied law 
 ### Prison to the Presidency
 
 Amid international pressure and the growing fear of racial civil war, President FW de Klerk released him in 1990. Mandela and de Klerk negotiated the end of apartheid and organized the 1994 multiracial general elections, in which Mandela led the ANC to victory and became president. Leading a broad coalition government that promulgated a new constitution, Mandela emphasized reconciliation between the country's racial groups and created the Truth and Reconciliation Commission to investigate past human rights abuses. Economically, the Mandela government maintained the liberal structure of its predecessor, despite its own socialist beliefs, also introducing measures to encourage land reform, fight poverty and expand health services.
+
+---
 
 ## 🗃 Release history
 
